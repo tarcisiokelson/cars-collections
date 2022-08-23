@@ -1,3 +1,5 @@
 # Cars Collections
 
-This project was builded to put in practice some CSS techniques, such position, flexbox, transitions and responsive layouts.
+This project was built to practice CSS techniques, such as position, flexbox, transitions, and responsive layouts.
+
+# Thank you.
